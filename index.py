@@ -1,5 +1,5 @@
 # Task 1: Load and explore Dataset
-# # Import required libraries
+# Import required libraries
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
